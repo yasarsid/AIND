@@ -18,3 +18,6 @@ In this project, students will develop an adversarial search agent to play the g
 ## 3 - Simulated Annealing demostration on the Travelling Salesman problem
 
 This was part of the optional lab project and is avaiable on a jupyter notebook
+
+## 4 - Planning - Air Cargo movement
+Using various search and heuristics to determine the best way to move cargo between airports
