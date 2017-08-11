@@ -19,3 +19,6 @@ This was part of the optional lab project and is avaiable on a jupyter notebook
 
 ## 4 - Planning - Air Cargo movement
 Using various search and heuristics to determine the best way to move cargo between airports
+
+## 5 - Recognizer : Sign Language Recognition System
+Recognize the Symbols in Sign Language to Actual Words using probablistic models
